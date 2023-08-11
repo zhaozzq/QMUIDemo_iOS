@@ -1,0 +1,3 @@
+[submodule "QMUI"]
+	path = QMUI
+	url = https://github.com/Tencent/QMUI_iOS.git

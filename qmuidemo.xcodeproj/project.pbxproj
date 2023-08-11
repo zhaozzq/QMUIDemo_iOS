@@ -1549,7 +1549,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 17;
-				DEVELOPMENT_TEAM = PM6KH29YH2;
+				DEVELOPMENT_TEAM = FBP8SPQ2FR;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1573,7 +1573,7 @@
 					LookinServer,
 				);
 				"OTHER_LDFLAGS[sdk=macosx*]" = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.molice.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.molice.test.zq;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1599,7 +1599,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 17;
-				DEVELOPMENT_TEAM = PM6KH29YH2;
+				DEVELOPMENT_TEAM = FBP8SPQ2FR;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1620,7 +1620,7 @@
 					"$(inherited)",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.molice.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.molice.test.zq;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -1703,7 +1703,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 17;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = PM6KH29YH2;
+				DEVELOPMENT_TEAM = FBP8SPQ2FR;
 				ENABLE_BITCODE = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = QMUIKeyboard/Info.plist;
@@ -1716,7 +1716,7 @@
 				MARKETING_VERSION = 4.7.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.molice.test.keyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.molice.test.zq.keyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -1738,7 +1738,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 17;
-				DEVELOPMENT_TEAM = PM6KH29YH2;
+				DEVELOPMENT_TEAM = FBP8SPQ2FR;
 				ENABLE_BITCODE = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = QMUIKeyboard/Info.plist;
@@ -1750,7 +1750,7 @@
 				);
 				MARKETING_VERSION = 4.7.0;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.molice.test.keyboard;
+				PRODUCT_BUNDLE_IDENTIFIER = com.molice.test.zq.keyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
